@@ -7,5 +7,5 @@
 5- git checkout -- .  #Recupera el archivo desde su ultimo commit
 6- git log            #Lista de commits
 7- git commit -- amend   #Edita el ultimo commit
-8- git checkout -b rama-OtraRama
-9- git checkout FrancoCamen
+8- git checkout -b rama-OtraRama  #Crea nueva Rama
+9- git checkout FrancoCamen       #Me ubica en la Rama elegida
