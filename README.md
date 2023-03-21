@@ -8,3 +8,4 @@
 6- git log            #Lista de commits
 7- git commit -- amend   #Edita el ultimo commit
 8- git checkout -b rama-OtraRama
+9- git checkout FrancoCamen
